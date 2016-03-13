@@ -3,7 +3,7 @@
 
 #include <vector>
 #include "vertex.h"
-#include "segment.h"
+#include "edge.h"
 
 struct Rect
 {
